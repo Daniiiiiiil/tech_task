@@ -143,5 +143,6 @@ int main() {
     }
     m6.give_matrix(mtrx, 2, 2);
     cout << "Does given maze 2x2 have a path: " << m6.boolean() << "\n" << endl;
+
     return 0;
 }
